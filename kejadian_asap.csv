@@ -1,0 +1,7 @@
+camera_id,status,jenis,conf_maks,waktu_mulai,waktu_selesai,durasi_detik,foto
+cam1,mulai,api,0.56,2026-11-23 07:00:24,,,foto_asap\cam1_20261123_070024.jpg
+cam1,dihentikan,api+asap,0.80,2026-11-23 07:00:24,2026-11-23 07:00:52,28,foto_asap\cam1_20261123_070024.jpg
+cam1,mulai,api,0.44,2026-11-23 11:21:23,,,foto_asap\cam1_20261123_112123.jpg
+cam1,dihentikan,api+asap,0.76,2026-11-23 11:21:23,2026-11-23 11:22:14,50,foto_asap\cam1_20261123_112123.jpg
+cam1,mulai,api,0.44,2026-11-26 00:43:13,,,foto_asap\cam1_20261126_004313.jpg
+cam1,dihentikan,api+asap,0.67,2026-11-26 00:43:13,2026-11-26 00:43:55,42,foto_asap\cam1_20261126_004313.jpg
